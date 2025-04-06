@@ -22,9 +22,11 @@ More coming soon as I continue learning and experimenting!
 ## 🔗 Let's Connect
 Feel free to check out my projects or drop by to say hello.  
 You can also find me on:
-- [LinkedIn](www.linkedin.com/in/aniketkumar001)
-- [X](https://x.com/lazyaniket?t=BZY24Y-WD4wYnfbAclIXZA&s=09)
 - [Portfolio Website](#) (coming soon!)
+- [LinkedIn](https://www.linkedin.com/in/aniketkumar001)
+- [X](https://x.com/lazyaniket?t=BZY24Y-WD4wYnfbAclIXZA&s=09)
+- [Email](aniket0ff001@gmail.com)
+
 
 ---
 
