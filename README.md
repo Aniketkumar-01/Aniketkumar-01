@@ -25,7 +25,7 @@ You can also find me on:
 - [Portfolio Website](#) (coming soon!)
 - [LinkedIn](https://www.linkedin.com/in/aniketkumar001)
 - [X](https://x.com/lazyaniket?t=BZY24Y-WD4wYnfbAclIXZA&s=09)
-- [Email](aniket0ff001@gmail.com)
+- [Email](https://aniket0ff001@gmail.com)
 
 
 ---
