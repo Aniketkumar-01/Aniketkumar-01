@@ -1,8 +1,31 @@
-- 👋 Hi, I’m @Aniketkumar-01
-- 👀 I’m interested in creating stuffs
-- 🌱 I’m currently learning Webdev and OS
+# 👋 Hi, I'm Aniket!
 
-<!---
-Aniketkumar-01/Aniketkumar-01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub Portfolio! I'm an aspiring web developer passionate about building clean, responsive, and user-friendly websites.
+
+## ✅ Skills So Far
+- HTML5
+- CSS3
+
+## 🌱 Currently Learning
+- JavaScript (Frontend)
+- Python (Beginner Level)
+
+
+## 🛠️ Projects
+Here are a few things I’ve been working on:
+- glassmorphic Profile-Card-UI
+- Personal Portfolio (in progress)
+-  myntra-landing-page-clone-frontend (HTML + CSS)
+
+More coming soon as I continue learning and experimenting!
+
+## 🔗 Let's Connect
+Feel free to check out my projects or drop by to say hello.  
+You can also find me on:
+- [LinkedIn](www.linkedin.com/in/aniketkumar001)
+- [X](https://x.com/lazyaniket?t=BZY24Y-WD4wYnfbAclIXZA&s=09)
+- [Portfolio Website](#) (coming soon!)
+
+---
+
+Thanks for visiting!
